@@ -1,0 +1,1 @@
+# nextcard-gerador-propostas
